@@ -1,3 +1,4 @@
+//interview question
 public class CandySpecialValue
 {
 	public static void main(String []args)
