@@ -40,11 +40,3 @@ int main()
     	printf("\n");
     }
 }
-
-// int main()
-// {
-// 	char str[4]={'a','b','c','\0'};
-// 	printf("%c",str[0]);
-	
-// 	return 0;
-// }
